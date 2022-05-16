@@ -4,3 +4,7 @@
 
 
 [![Codigo quality](https://api.codiga.io/project/33588/score/svg)]
+
+[![Analysis](https://github.com/HemantRam/M3_Car_Wiper_System/actions/workflows/analysis.yml/badge.svg)](https://github.com/HemantRam/M3_Car_Wiper_System/actions/workflows/analysis.yml)
+
+
