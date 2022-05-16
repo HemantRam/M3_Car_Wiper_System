@@ -7,5 +7,5 @@
 
 [![Analysis](https://github.com/HemantRam/M3_Car_Wiper_System/actions/workflows/analysis.yml/badge.svg)](https://github.com/HemantRam/M3_Car_Wiper_System/actions/workflows/analysis.yml)
 
-[![Analysis](https://github.com/HemantRam/M3_Car_Wiper_System/actions/workflows/analysis.yml/badge.svg)](https://github.com/HemantRam/M3_Car_Wiper_System/actions/workflows/analysis.yml)
+[![Cpp-Check](https://github.com/HemantRam/M3_Car_Wiper_System/actions/workflows/cpp.yml/badge.svg)](https://github.com/HemantRam/M3_Car_Wiper_System/actions/workflows/cpp.yml)
 
